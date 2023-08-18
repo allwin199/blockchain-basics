@@ -1,6 +1,6 @@
 - Nonce: tx count for the account
-- Gas: Price: price per unit of gas in WEI
-- Gas: Limit: max gas that this tx can use
+- Gas Price: price per unit of gas in WEI
+- Gas Limit: max gas that this tx can use
 - To: address that the tx is sent to
 - Value: amount of WEI to send
 - Data: what to send to the To address
