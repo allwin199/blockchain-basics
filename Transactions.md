@@ -20,7 +20,7 @@
 
 -   Gas Price : Cost per unit of gas specified for the tx in Gwei. The higher the gas price the higher the chance of getting include in a block.
 
--   Gas Limit & Usage by Txn: 63,000 | 21,000 (33.33%)
+-   Gas Limit & Usage by Txn: 63,000 | 21,000 (33.33%)  
     // Gas usage is based on the complexity of the tx.
 
 Gas Price : 0.000004293 Gwei (0.000000000000004293 ETH)
