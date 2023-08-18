@@ -1,7 +1,7 @@
 -   Transaction Hash: 0x58fd5324ea64d2913411801c9e9815cb1e630ef2b51b71571a88870d76e141af  
     // A TxHash is a unique 66- character identifier
 
--   Status: Success
+-   Status: Status of the transaction
 
 -   Block: 3888247 32 Block Confirmations  
     // 3888247 is the block where our transaction got mined  
@@ -32,11 +32,9 @@ Tx fee: `(Gas Price * Gas Used)`
 Tx Fee : 0.000000000090153 ETH
 
 -   Gas Fees: Base: 0.000000015 Gwei  
-    // This is the minimum gas fees we have to set to include the tx in blockchain
+    // This is the minimum gas fee we have to set to include the tx in the blockchain
 
 -   Burnt Fees: Burnt: 0.000000000000315 ETH ($0.00)  
     // Burnt fees will be based on `(gas fees * gas used) in ETH`
-    // Whenever we send a tx, little bit of ETH is removed from circulation
+    // Whenever we send a tx, a little bit of ETH is removed from circulation
 
--   Amount of ETH sent to validators
-    `(Burnt Fees - Transaction Fees) in ETH`
