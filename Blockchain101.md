@@ -15,11 +15,13 @@ https://andersbrownworth.com/blockchain/
 
 # Block:
 
+- List of transactions mined together.
+
 Block Id: 1
 
 data: asasasasasasas
 
-To mine this data to the block, we need to unique hash
+To mine this data to the block, we need a unique hash
 In this example, we need a unique has that starts with 0000
 
 To get a unique hash that starts with 0000, nonce will be used
