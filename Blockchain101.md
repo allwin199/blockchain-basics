@@ -5,7 +5,11 @@ https://www.youtube.com/watch?v=kHybf1aC-jE
 https://techjury.net/blog/what-is-cryptographic-hash/
 
 Hash: A unique fixed-length string, meant to identify a piece of data.
-They are created by placing said data into a “hash function”.
+They are created by placing data into a “hash function”.
+
+Mining: The process of finding the "solution" to the blockchain "problem".
+In our example, the problem was to find a hash that starts with "0000"
+Nodes get paid for mining blocks.
 
 https://andersbrownworth.com/blockchain/
 
