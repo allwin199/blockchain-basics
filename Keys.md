@@ -11,7 +11,7 @@ Signing Transactions: A "one way" process. Someone with a private key signs the 
 
 
 Address is derived using the public key
-public key is derived using private key
+public key is derived using private key with the help of ECDSA
 
 -----------------------
 
