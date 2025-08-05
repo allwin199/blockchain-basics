@@ -22,3 +22,10 @@ How a new account gets created in the metamask
 2. This hash will act as the private key for the new account created.
 3. From this private key, public key will be derived
 4. From the public key, address will be derived
+
+-----------------------------
+
+Therfore,
+
+Secret Phase is very important, next
+Private key is important
