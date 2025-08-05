@@ -28,7 +28,7 @@
 Gas Price : 0.000004293 Gwei (0.000000000000004293 ETH)
 Gas Limit & Usage by Txn: 63,000 | 21,000 (33.33%)
 
-Tx fee: `(Gas Price * Gas Used)`
+Tx fee: `(Gas Used * Gas Price)`
 `21,000 * 0.000000000000004293 ETH = 0.000000000090153 ETH`
 
 Tx Fee : 0.000000000090153 ETH
