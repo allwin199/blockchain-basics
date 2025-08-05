@@ -12,3 +12,13 @@ Signing Transactions: A "one way" process. Someone with a private key signs the 
 
 Address is derived using the public key
 public key is derived using private key
+
+-----------------------
+
+How a new account gets created in the metamask
+
+1. Metamask takes the menmonic(Secret Phase) and then add a number
+<secret phase> + 0 => hash will be generated.
+2. This hash will act as the private key for the new account created.
+3. From this private key, public key will be derived
+4. From the public key, address will be derived
