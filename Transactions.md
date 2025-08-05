@@ -22,6 +22,8 @@
 
 -   Gas Limit & Usage by Txn: 63,000 | 21,000 (33.33%)  
     // Gas usage is based on the complexity of the tx.
+    // Gas limit was set to 63,000
+    // but for this transaction it used only 21,000 which is (33.33%)
 
 Gas Price : 0.000004293 Gwei (0.000000000000004293 ETH)
 Gas Limit & Usage by Txn: 63,000 | 21,000 (33.33%)
